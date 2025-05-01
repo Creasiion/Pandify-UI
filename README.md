@@ -4,8 +4,8 @@ Pandify-UI is a full-stack music playlist web application that allows users to e
 
 ## Folder Structure
 
-- `/frontend` — Vue.js frontend that powers the UI
-- `/backend - servers` — Express.js server handling backend logic
+- `Frontend` — Vue.js frontend that powers the UI
+- `Backend - Servers` — Express.js server handling backend logic
 
 ## Features
 
